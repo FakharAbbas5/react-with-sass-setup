@@ -11,21 +11,19 @@ This is basic React app starter with SASS and routing setup so that you don't ne
 
 ## Styling
 
-Project is using node-sass module for implementation of sass.
-You can create a new scss file inside either of 5 folders in src/sass or create a new one.
-Import that file in main.scss.
-Restart the script
+Project is using node-sass module for implementation of sass.\
+You can create a new scss file inside either of 5 folders in src/sass or create a new one.\
+Import that file in main.scss.\
+Restart the script.\
 `npm run sass`
-
-#### Boom you are ready to go.
 
 ### Author
 
-Fakhar Abbas
-Reach me at:
+Fakhar Abbas\
+Reach me for any task at:
 
-LinkedIn: https://www.linkedin.com/in/fakhar-abbas-434747138/
+LinkedIn: https://www.linkedin.com/in/fakhar-abbas-434747138/ \
 Gmail: mfakharabbas7@gmail.com
 
-Fiverr: https://www.fiverr.com/fakharabbas713
+Fiverr: https://www.fiverr.com/fakharabbas713 \
 Upwork: https://www.upwork.com/freelancers/~012a701eb4b7888774
